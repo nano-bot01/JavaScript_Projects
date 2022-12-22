@@ -10,7 +10,7 @@ All minor JS projects are here!
 >
 > [Simple Counter](https://rowcounterusingjs.netlify.app/)
 >
-> 
+> [TODO LIST](https://todolistnanobot.netlify.app/)
 >
 >
 
